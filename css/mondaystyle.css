@@ -1,0 +1,51 @@
+
+/*{
+	background-color: #ffc117;
+}						#20c997
+
+#header-nav
+{
+	background-color: maroon; 
+}*/
+.navbar-nav
+{
+	font-family: cursive;
+}
+
+.navbar-text
+{
+	font-family: fantasy;
+	color: white !important;
+	font-size: 25px;
+
+}
+p
+{
+	font-size: 20px;
+	font-family: cursive;
+	color: #f8f9fa;
+}
+.jumbotron
+{
+	background-color: #343a40;
+}
+h1
+{
+	font-family: fantasy;
+	text-transform: uppercase;
+	font-size: 3em;
+}
+h2
+{
+	color: white;
+	font-family: fantasy;
+	font-size: 40px;
+}
+
+@media (min-width: 576px) 
+{
+  #magic 
+  {
+  	visibility: hidden !important;
+  }
+}
